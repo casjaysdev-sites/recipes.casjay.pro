@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipes
 title: Cocktail Sausages
 date: 2021-10-23 18:30
 author: casjay

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipes
 title: Bacon Mac & Cheese
 date: 2021-10-23 18:30
 author: casjay

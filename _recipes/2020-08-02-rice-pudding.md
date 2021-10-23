@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipes
 title: Rice Pudding
 date: 2020-08-02 14:00
 author: casjay
