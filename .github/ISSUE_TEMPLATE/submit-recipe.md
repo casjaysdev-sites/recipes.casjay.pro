@@ -11,8 +11,8 @@ assignees: ''
 title: RecipeName
 date: TodaysDate Time
 author: YourName
-categories: [ pudding ]
-tags: [ rice, pudding ]
+categories: [  ]
+tags: [  ]
 
 ---
 
