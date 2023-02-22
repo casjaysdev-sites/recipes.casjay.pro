@@ -17,7 +17,8 @@ Yield: 2 Pounds
 |    4 Cups     |     Flour     |
 |   1 3/8 Cup   |     Water     |
 | 3 Tablespoons | Vegetable oil |
-| 1 Tablespoon  |     Yeast     |
+|  1 teaspoon   |     salt      |
+|  2 teaspoons  |     Yeast     |
 
 Directions:
 
