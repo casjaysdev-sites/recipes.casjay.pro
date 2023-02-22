@@ -20,8 +20,8 @@ Yield: 2 Pounds
 |  1 teaspoon   |     salt      |
 |  2 teaspoons  |     Yeast     |
 
-Directions:
+Directions:  
 
-1) Add all ingredients to bread machine and run on "dough" cycle.
-2) When cycle is done, punch down dough and remove from machine.
-3) Keep in a bowl coated with olive oil and allow to rest until you're ready to roll out.
+1) Add all ingredients to bread machine and run on "dough" cycle.  
+2) When cycle is done, punch down dough and remove from machine.  
+3) Keep in a bowl coated with olive oil and allow to rest until you're ready to roll out.  

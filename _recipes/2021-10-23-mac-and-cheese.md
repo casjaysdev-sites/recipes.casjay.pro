@@ -23,7 +23,7 @@ Yield: 4 Servings
 
 Directions:
 
-1) Coat crock pot in non-stick spray
-2) Cook elbow macaroni for 6-8 minutes, drain
-3) Combine all ingredients in the crock pot and stir together
-4) Cover and cook on low for 2 hours, stir every half hour to evenly distribute the cheese
+1) Coat crock pot in non-stick spray  
+2) Cook elbow macaroni for 6-8 minutes, drain  
+3) Combine all ingredients in the crock pot and stir together  
+4) Cover and cook on low for 2 hours, stir every half hour to evenly distribute the cheese  
